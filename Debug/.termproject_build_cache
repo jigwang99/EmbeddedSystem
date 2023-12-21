@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>compiler</Name>
+        <Parent>
+            <Path>C:\Users\User\Documents\IARTermProject\user\main.c</Path>
+            <Output>
+                <Path>C:\Users\User\Documents\IARTermProject\Debug\List\user_8514941877209965082.dir\main.lst</Path>
+            </Output>
+        </Parent>
+    </Tool>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\User\Documents\IARTermProject\Debug\Exe\termproject.out</Path>
+            <Output>
+                <Path>C:\Users\User\Documents\IARTermProject\Debug\List\termproject.map</Path>
+            </Output>
+            <Output>
+                <Path>C:\Users\User\Documents\IARTermProject\Debug\List\termproject.log</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

@@ -1,0 +1,15 @@
+"D:\arm\bin\armPROC.dll" 
+
+"D:\arm\bin\armJLINK.dll" 
+
+"C:\Users\User\Documents\IARTermProject\Debug\Exe\termproject.out" 
+
+--plugin="D:\arm\bin\armLibSupportUniversal.dll" 
+
+--device_macro="D:\arm/config/debugger/ST/STM32F1xx.dmac" 
+
+--flash_loader="D:\arm/config/flashloader/ST/FlashSTM32F105xC.board" 
+
+
+
+
